@@ -1,0 +1,5 @@
+# Release artifacts are attached to GitHub Releases, not committed —
+# the repo stays tiny while the binaries live on the release CDN.
+demosurvey.apk
+manifest.json
+public_key.pem
